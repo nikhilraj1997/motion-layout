@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memeland.</string>
+    <string name="app_slog">All home grown memes in one place</string>
+    <string name="title_activity_sign_">sign_in</string>
+</resources>
